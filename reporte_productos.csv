@@ -1,4 +1,4 @@
-Mouse;80000,00
-Monitor;950000,00
-Laptop;2500000,50
-Teclado;150000,99
+Monitor;950000,00;22
+Laptop;2500000,50;14
+Mouse;80000,00;12
+Teclado;150000,99;12
