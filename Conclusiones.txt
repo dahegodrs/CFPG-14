@@ -1,0 +1,21 @@
+CONCLUSIONES DEL PROYECTO
+
+1. Aprendizaje durante el desarrollo del proyecto
+
+Durante el desarrollo del proyecto se adquirieron conocimientos fundamentales sobre el manejo de archivos en Java, especialmente la lectura y escritura de archivos planos en formato CSV. Se aprendió a estructurar un programa completo que integra generación de datos, procesamiento de información y creación de reportes.
+También se fortalecieron habilidades en el uso de estructuras de datos como Map y List para organizar y procesar información de manera eficiente. Se aplicaron buenas prácticas de programación como el uso de nombres claros en variables, separación de responsabilidades en métodos, manejo de errores y documentación con JavaDoc.
+Adicionalmente, se comprendió la importancia de validar datos de entrada, ya que durante el procesamiento de archivos se implementaron controles para detectar líneas mal formadas, productos inexistentes y posibles inconsistencias en la información.
+
+2. Aplicación en la vida profesional
+
+Los conocimientos adquiridos en este proyecto tienen aplicación directa en el ámbito profesional, especialmente en el desarrollo de software y el manejo de información empresarial. El procesamiento de archivos CSV es ampliamente utilizado en empresas para manejar datos como ventas, inventarios y reportes.
+Asimismo, se desarrollaron habilidades en automatización de procesos, permitiendo transformar datos en información útil sin intervención manual. También se fortaleció la capacidad de análisis de datos, ya que el sistema permite generar reportes organizados que facilitan la toma de decisiones.
+El uso de herramientas como GitHub para el manejo de versiones y trabajo en equipo también representa una competencia clave en entornos laborales reales.
+
+3. Dificultades presentadas durante el desarrollo
+
+Durante el desarrollo del proyecto se presentaron varias dificultades técnicas, principalmente relacionadas con el manejo de archivos y la validación de datos. Se encontraron problemas con líneas vacías o mal formadas en los archivos, lo que generaba errores en la ejecución del programa.
+También hubo inconvenientes en la coherencia de los datos generados, como tipos de documento incorrectos o inconsistencias entre vendedores y archivos de ventas. Estas situaciones obligaron a implementar validaciones adicionales dentro del programa.
+Otra dificultad importante fue la integración de todas las partes del sistema, ya que fue necesario asegurar que la generación de archivos, el procesamiento y la creación de reportes funcionaran correctamente en conjunto.
+Finalmente, el trabajo en equipo representó un reto en la organización del código y la unificación de criterios, pero permitió mejorar la solución final mediante la colaboración.
+En conclusión, el proyecto permitió consolidar conocimientos fundamentales de programación y desarrollar habilidades prácticas aplicables en contextos reales.
